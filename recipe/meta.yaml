@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/{{ name[0] }}/{{ name }}/skore_hub_project-{{ version }}.tar.gz
-  sha256: df58c976c84203bcb8fa7f751c25ee7be7143cf1f6469e5f0fee36b42ce9245f
+  sha256: b7f1f473da2e9afef0e5e8170fa396c2d619b278bded9b005caa2f7cd9648498
 
 build:
   entry_points:
